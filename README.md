@@ -1,12 +1,7 @@
-# walk boston data employees minimum of 200k per year
+# manipulate walk boston data
 ## Run step
 ## Step 1
-The html variable inside a ul element with id="data"
-
-The first use in sort function 
-
-The next use in splice function the collect particular employees id and some data 
-
+ in this project a set of JSON date which has been converted to an array representing boston employee salaries, finding the top five income earners in the city of boston
 ## Future improvement
 
-The furure improvement the another use function  to simple and eassy solve the program in employees details
+This project can be further enchanced by finding the employees in alphabatic order Eg: when type A, then shows the list of employees names start with A.
